@@ -1,0 +1,7 @@
+Plan_Var_ID,Plan_ID,Plan_name,Price,Duration
+P1_1Y,P1,Silver,1200.0,1 Year
+P1_6M,P1,Silver,720.0,6 Months
+P2_1Y,P2,Gold,2400.0,1 Year
+P2_6M,P2,Gold,1440.0,6 Months
+P3_1Y,P3,Diamond,4800.0,1 Year
+P3_6M,P3,Diamond,2880.0,6 Months
