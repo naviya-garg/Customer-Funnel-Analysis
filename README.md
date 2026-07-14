@@ -6,7 +6,7 @@ This project analyzes how customers move through an e-commerce funnel — from b
 ---
 
 ## 📷 Dashboard Preview
-![Funnel Analysis](images/funnel.png)
+![Funnel Analysis](Images/funnel.png)
 
 ---
 
