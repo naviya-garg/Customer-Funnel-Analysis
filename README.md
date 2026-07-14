@@ -46,11 +46,13 @@ This project analyzes how customers move through an e-commerce funnel — from b
 ## 📂 Project Structure
 customer-funnel-analysis/
 │
-├── data/
-├── sql/
-├── python/
+├── Data/
 ├── images/
+│ └── funnel.png
+├── Python.ipynb
+├── SQL.sql
 └── README.md
+
 
 ---
 
